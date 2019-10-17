@@ -1,4 +1,4 @@
-package com.verticalambition.example.camel.spring.restapi.route;
+package example.camel.spring.restapi.route;
 
 import org.apache.camel.LoggingLevel;
 import org.apache.camel.builder.RouteBuilder;
